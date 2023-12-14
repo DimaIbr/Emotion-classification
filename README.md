@@ -1,6 +1,8 @@
 # Emotion-classification
-Сравнение моделей из SkLearn и CatBoost в задаче многоклассовой определения эмоций 
+Сравнение моделей из SkLearn и CatBoost в задаче многоклассовой определения эмоций
+
 Эмоции 01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised
+
 Ссылка на датасет:
 https://zenodo.org/records/1188976
 
